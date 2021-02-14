@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Huayra
+GenericName=Calamares Installer
+Exec=install-huayra
+Comment=Calamares — Installer for Huayra Live
+Keywords=calamares;system;install;debian;installer
+Icon=install-debian
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

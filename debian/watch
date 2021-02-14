@@ -1,0 +1,2 @@
+version=4
+https://salsa.debian.org/live-team/calamares-settings-debian/tags .*/calamares-settings-debian-(.*)\.tar\.gz

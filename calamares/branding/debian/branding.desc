@@ -1,0 +1,27 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+
+strings:
+    productName:         Debian GNU/Linux
+    shortProductName:    Debian
+    version:             10 (buster)
+    shortVersion:        10
+    versionedName:       Debian 10 (buster)
+    shortVersionedName:  Debian 10
+    bootloaderEntryName: Debian
+    productUrl:          https://debian.org
+    supportUrl:          https://www.debian.org/support
+    releaseNotesUrl:     https://www.debian.org/releases/buster/releasenotes
+
+images:
+    productLogo:         "debian-logo.png"
+    productIcon:         "debian-logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"

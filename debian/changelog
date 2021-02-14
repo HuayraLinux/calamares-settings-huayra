@@ -1,0 +1,6 @@
+calamares-settings-huayra (1.0) torbellino; urgency=medium
+
+  * Rebranding to calamares-settings-huayra
+  * Convert to native package.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Sat, 13 Feb 2021 20:57:35 -0300
