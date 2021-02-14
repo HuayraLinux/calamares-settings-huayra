@@ -40,8 +40,8 @@ Presentation
         Text {
             anchors.horizontalCenter: background1.horizontalCenter
             anchors.top: background1.bottom
-            text: "Welcome to Debian GNU/Linux.<br/>"+
-                  "The rest of the installation is automated and should complete in a few minutes."
+            text: "Bienvenido a Huayra GNU/Linux.<br/>"+
+                  "El resto de la instalación es automática y se completara en unos minutos."
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center

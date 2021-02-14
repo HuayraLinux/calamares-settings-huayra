@@ -11,15 +11,16 @@ mkdir -p ~/Desktop
 # Among the Debian desktop environments, LXDE is the only one
 # that behaves completely different.
 if [ -f /usr/bin/lxsession ]; then
-    echo "[Desktop Entry]" > ~/Desktop/install-debian.desktop
-    echo "Type=Link" >> ~/Desktop/install-debian.desktop
-    echo "Name=Install Debian" >> ~/Desktop/install-debian.desktop
-    echo "Icon=install-debian" >> ~/Desktop/install-debian.desktop
-    echo "URL=/usr/share/applications/install-debian.desktop" \
-          >> ~/Desktop/install-debian.desktop
+    echo "[Desktop Entry]" > ~/Desktop/install-huayra.desktop
+    echo "Type=Link" >> ~/Desktop/install-huayra.desktop
+    echo "Name=Install Huayra" >> ~/Desktop/install-huayra.desktop
+    echo "Name[es]=Instalar Huayra" >> ~/Desktop/install-huayra.desktop
+    echo "Icon=install-huayra" >> ~/Desktop/install-huayra.desktop
+    echo "URL=/usr/share/applications/install-huayra.desktop" \
+          >> ~/Desktop/install-huayra.desktop
 else
-    cp /usr/share/applications/install-debian.desktop ~/Desktop
+    cp /usr/share/applications/install-huayra.desktop ~/Desktop
     # Xfce needs this executable otherwise it complains, everything
     # else doesn't seem to care either way.
-    chmod +x ~/Desktop/install-debian.desktop
+    chmod +x ~/Desktop/install-huayra.desktop
 fi

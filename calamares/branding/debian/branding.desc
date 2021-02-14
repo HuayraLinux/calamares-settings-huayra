@@ -3,20 +3,20 @@ componentName:   debian
 welcomeStyleCalamares: true
 
 strings:
-    productName:         Debian GNU/Linux
-    shortProductName:    Debian
-    version:             10 (buster)
-    shortVersion:        10
-    versionedName:       Debian 10 (buster)
-    shortVersionedName:  Debian 10
-    bootloaderEntryName: Debian
-    productUrl:          https://debian.org
-    supportUrl:          https://www.debian.org/support
-    releaseNotesUrl:     https://www.debian.org/releases/buster/releasenotes
+    productName:         Huayra GNU/Linux
+    shortProductName:    Huayra
+    version:             5 (austral)
+    shortVersion:        5
+    versionedName:       Huayra 5 (austral)
+    shortVersionedName:  Huayra 5
+    bootloaderEntryName: Huayra 5
+    productUrl:          https://huayra.educar.gob.ar/
+    supportUrl:          https://github.com/HuayraLinux
+    releaseNotesUrl:     https://huayra.educar.gob.ar/releasenotes
 
 images:
-    productLogo:         "debian-logo.png"
-    productIcon:         "debian-logo.png"
+    productLogo:         "huayra-logo.png"
+    productIcon:         "huayra-logo.png"
     productWelcome:      "welcome.png"
 
 slideshow:               "show.qml"

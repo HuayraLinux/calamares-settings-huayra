@@ -2,11 +2,14 @@
 Type=Application
 Version=1.0
 Name=Install Huayra
+Name[es]=Instalar Huayra
 GenericName=Calamares Installer
+GenericName[es]=Instalador Calamares
 Exec=install-huayra
 Comment=Calamares — Installer for Huayra Live
+Comment[es]=Calamares — Instalador para Huayra en vivo
 Keywords=calamares;system;install;debian;installer
-Icon=install-debian
+Icon=install-huayra
 Terminal=false
 Categories=Qt;System;
 StartupWMClass=calamares
