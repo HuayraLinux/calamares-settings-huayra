@@ -15,10 +15,12 @@ Depends: calamares,
          rsync,
          cryptsetup,
          keyutils,
+         console-setup,
          qml-module-qtquick-window2,
          qml-module-qtquick2,
          ${misc:Depends}
 Provides: calamares-settings
+Conflicts: calamares-settings-debian
 Description: Huayra themes and settings for the Calamares Installer
  Calamares is a generic installer framework for Linux distributions.
  By default, it contains a set of boilerplate wording and images. This

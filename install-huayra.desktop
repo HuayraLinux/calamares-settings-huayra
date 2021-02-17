@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install Huayra
-Name[es]=Instalar Huayra
+Name=Install Huayra GNU/Linux
+Name[es]=Instalar Huayra GNU/Linux
 GenericName=Calamares Installer
 GenericName[es]=Instalador Calamares
 Exec=install-huayra
