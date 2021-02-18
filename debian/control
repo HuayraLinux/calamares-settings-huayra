@@ -13,6 +13,7 @@ Architecture: all
 Depends: calamares,
          squashfs-tools,
          rsync,
+         efibootmgr,
          cryptsetup,
          keyutils,
          console-setup,

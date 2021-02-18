@@ -1,3 +1,10 @@
+calamares-settings-huayra (1.3) torbellino; urgency=medium
+
+  * Depende de eefibootmgr
+  * Instala la entrada efi en el directorio huayra.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 18 Feb 2021 10:29:21 -0300
+
 calamares-settings-huayra (1.2) torbellino; urgency=medium
 
   * Real package.
