@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.5) torbellino; urgency=medium
+
+  * No impone restricciones para las contraseñas para permitir estudiante.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 23 Feb 2021 10:44:17 -0300
+
 calamares-settings-huayra (1.4) torbellino; urgency=medium
 
   * Permite configurar la cuenta de root o reusar la contraseña del usuario.
