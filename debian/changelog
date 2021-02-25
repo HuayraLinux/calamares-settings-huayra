@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.7) torbellino; urgency=medium
+
+  * Branding oficial.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 25 Feb 2021 10:52:39 -0300
+
 calamares-settings-huayra (1.6) torbellino; urgency=medium
 
   * Arregla autologin e icono huayra.
