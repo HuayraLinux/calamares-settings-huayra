@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.6) torbellino; urgency=medium
+
+  * Arregla autologin e icono huayra.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 25 Feb 2021 10:39:54 -0300
+
 calamares-settings-huayra (1.5) torbellino; urgency=medium
 
   * No impone restricciones para las contraseñas para permitir estudiante.
