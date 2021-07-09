@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.9) torbellino; urgency=medium
+
+  * Configura el tema de grub luego de instalarlo.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 08 Jul 2021 20:31:41 -0300
+
 calamares-settings-huayra (1.8) torbellino; urgency=medium
 
   * Nuevo icono finalizando branding.
