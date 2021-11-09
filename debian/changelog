@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.11) torbellino; urgency=medium
+
+  * Agrega contrib y non-free. Fix issue #6
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 09 Nov 2021 10:26:14 -0300
+
 calamares-settings-huayra (1.10) torbellino; urgency=medium
 
   * Desactiva opcion de autologin por defecto.
