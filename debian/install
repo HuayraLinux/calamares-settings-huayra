@@ -4,6 +4,6 @@ scripts/* usr/sbin
 *.desktop usr/share/applications
 install-huayra usr/bin
 artwork/install-huayra.png usr/share/pixmaps
-conf/96_calamares-settings-debian.gschema.override usr/share/glib-2.0/schemas
+conf/90_calamares-settings-huayra-mate.gschema.override usr/share/glib-2.0/schemas
 conf/calamares-desktop-icon.desktop etc/xdg/autostart
 add-calamares-desktop-icon usr/bin
