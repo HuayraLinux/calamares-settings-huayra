@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.13+nmu1) unstable; urgency=medium
+
+  * Actulizacion para Huayra6 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 28 Nov 2022 12:56:26 -0300
+
 calamares-settings-huayra (1.13) torbellino; urgency=medium
 
   * Limpia logs antiguos en variables EFIs que causan problemas.
