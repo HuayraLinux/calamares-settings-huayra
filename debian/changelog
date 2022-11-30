@@ -1,5 +1,13 @@
-calamares-settings-huayra (1.13+nmu3) UNRELEASED; urgency=medium
+calamares-settings-huayra (1.13+nmu4) unstable; urgency=medium
 
+  * Nuevos fondos..
+  * Agrega dialout a los grupos del usuario
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 30 Nov 2022 11:07:22 -0300
+
+calamares-settings-huayra (1.13+nmu3) unstable; urgency=medium
+
+  [ Fernando Toledo ]
   * fix souorce media y theme de grub por defecto 
 
  -- Fernando Toledo <ragnarok@docksud.com.ar>  Tue, 29 Nov 2022 17:38:49 -0300
