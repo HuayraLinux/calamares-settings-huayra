@@ -1,3 +1,9 @@
+calamares-settings-huayra (1.13+nmu5) torbellino; urgency=medium
+
+  * Configura plymouth
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 01 Dec 2022 12:50:36 -0300
+
 calamares-settings-huayra (1.13+nmu4) unstable; urgency=medium
 
   * Nuevos fondos..
