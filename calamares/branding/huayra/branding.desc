@@ -5,11 +5,11 @@ welcomeStyleCalamares: true
 strings:
     productName:         Huayra GNU/Linux
     shortProductName:    Huayra
-    version:             6 (norte)
-    shortVersion:        6
-    versionedName:       Huayra 6 (norte)
-    shortVersionedName:  Huayra 6
-    bootloaderEntryName: Huayra 6
+    version:             6.5 (rafaga)
+    shortVersion:        6.5
+    versionedName:       Huayra 6.5 (rafaga)
+    shortVersionedName:  Huayra 6.5
+    bootloaderEntryName: Huayra 6.5
     productUrl:          https://huayra.educar.gob.ar/
     supportUrl:          https://github.com/HuayraLinux
     releaseNotesUrl:     https://huayra.educar.gob.ar/releasenotes
