@@ -1,3 +1,10 @@
+calamares-settings-huayra (1.16) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * quitando raspi-firmware
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Fri, 16 Feb 2024 14:45:39 -0300
+
 calamares-settings-huayra (1.15) unstable; urgency=medium
 
   * change RELEASE
