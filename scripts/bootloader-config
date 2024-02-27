@@ -25,7 +25,7 @@ else
 fi
 
 echo " * Setting the default grub theme..."
-chroot $CHROOT dpkg-reconfigure -f noninteractive --force huayra-grub-themes-ci-2022
+chroot $CHROOT dpkg-reconfigure -f noninteractive --force huayra-grub-themes-ci-2023
 
 # Re-enable os-prober:
 sed -i "s/#GRUB_DISABLE_OS_PROBER=false/# OS_PROBER re-enabled by Debian Calamares installation:\nGRUB_DISABLE_OS_PROBER=false/g" $CHROOT/etc/default/grub
